@@ -3,25 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Conceptos de IA</title>
+  
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #cce5ff; /* Azul bajo */">
 <body>
   <h1 style="color: #454544 ;">Conceptos sobre IA</h1>
 
   <p><strong>La Inteligencia Artificial (IA)</strong> se refiere a la capacidad de las máquinas para imitar funciones cognitivas humanas, como el aprendizaje, el razonamiento y la resolución de problemas. Se divide en dos categorías principales: IA débil y IA fuerte.</p>
-
   <h2 style="color: #454544 ;">Tipos de IA y Conceptos Breves:</h2>
-
-  <ul>
     <li><strong>IA Débil:</strong> También conocida como inteligencia artificial estrecha, se centra en tareas específicas. Ejemplos incluyen sistemas de recomendación, reconocimiento facial y asistentes virtuales.</li>
     <li><strong>IA Fuerte:</strong> Busca comprender y realizar tareas de manera general, simulando la inteligencia humana. Aún está en desarrollo y plantea preguntas éticas y filosóficas sobre la conciencia artificial.</li>
     <li><strong>Aprendizaje Automático:</strong> Subconjunto de la IA que permite a las máquinas aprender patrones y tomar decisiones sin programación explícita.</li>
     <li><strong>Procesamiento del Lenguaje Natural (PLN):</strong> Facilita la interacción entre humanos y computadoras a través del entendimiento y generación de lenguaje humano.</li>
-  </ul>
-
   <h2 style="color:#454544 ;">Cómo usar GPT:</h2>
-
   <p><strong>GPT (Generative Pre-trained Transformer)</strong> es un modelo de lenguaje desarrollado por OpenAI. Para utilizar GPT, puedes acceder a interfaces de programación de aplicaciones (API) proporcionadas por OpenAI. Simplemente, envías una solicitud de texto a la API de GPT, y obtienes una respuesta generada por el modelo. Puedes ajustar la longitud de la respuesta y personalizar la solicitud según tus necesidades. GPT se ha utilizado para tareas como redacción de contenido, traducción, generación de código y más.</p>
   
    <h2 style="color:#454544 ;">Guía para Usar ChatGPT</h2>
